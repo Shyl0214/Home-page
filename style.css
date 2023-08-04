@@ -37,7 +37,6 @@ a {
   height: 3.6vw;
   background-image: url(./Assets/asset\ 32.png);
   background-size: 400px;
-  /* background-repeat: repeat; */
   padding: 1vw 2vw;
   display: flex;
   justify-content: center;
@@ -133,22 +132,17 @@ a {
 
 .left-content-of-hero-section {
   width: 50%;
-  /* background-color: lightblue; */
 }
 
 .left-content-of-hero-section h1 {
   margin-bottom: 1vw;
   color: #183b56;
-  /* position: absolute; */
 }
 
 .left-content-of-hero-section p {
-  /* margin-bottom: 1vw; */
   font-size: 1.2rem;
   line-height: 2.2vw;
   color: #577592;
-  /* padding-right: 100px; */
-  /* background-color: lightpink; */
 }
 
 .left-content-of-hero-section button {
@@ -199,7 +193,7 @@ a {
 
 .up-hero-section-two {
   text-align: center;
-  /* background-color: pink; */
+
   margin-top: 30px;
 }
 
@@ -245,7 +239,7 @@ a {
 .feature-section {
   display: flex;
   padding-inline: 6.5vw;
-  /* justify-content: center; */
+
   align-items: center;
   gap: 3rem;
   margin-top: 6rem;
@@ -254,7 +248,7 @@ a {
 .feature-section-two {
   display: flex;
   padding-inline: 6.5vw;
-  /* justify-content: center; */
+
   align-items: center;
   gap: 3rem;
   margin-top: 5rem;
@@ -263,7 +257,7 @@ a {
 .feature-section-three {
   display: flex;
   padding-inline: 6.5vw;
-  /* justify-content: center; */
+
   align-items: center;
   gap: 3rem;
   margin-top: 5rem;
@@ -274,7 +268,6 @@ a {
 }
 
 .right-content-feature-section {
-  /* background-color: lightblue; */
   height: 35vw;
   width: 45%;
 
@@ -305,11 +298,8 @@ h2 {
 .img-div-content {
   display: flex;
   align-items: center;
-  /* justify-content: center; */
-  /* background-color: pink; */
 
   gap: 1vw;
-  /* height: 8vw; */
 }
 
 .img-div-content img {
@@ -348,7 +338,6 @@ h2 {
   width: 20vw;
   height: 22vw;
   border: 1px solid #577592;
-  /* background-color: lightblue; */
 }
 
 .child-div-1 p {
@@ -460,9 +449,9 @@ h2 {
   justify-content: center;
   align-items: center;
   padding-inline: 6.5vw;
-  /* margin-top: 2vw; */
+
   height: 400px;
-  /* background-color: pink; */
+
   gap: 3vw;
 }
 
@@ -484,8 +473,7 @@ h2 {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  /* align-items: center; */
-  /* margin-top: 7vw; */
+
   gap: 10vw;
   height: 400px;
   background-color: #ebf2fa;
@@ -541,7 +529,7 @@ h2 {
   gap: 5vw;
   background-color: #b9cde4;
   height: 50px;
-  /* padding-inline: 6.5vw; */
+
   padding: 2.5vw;
 }
 
